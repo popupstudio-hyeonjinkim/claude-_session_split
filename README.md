@@ -13,7 +13,7 @@ With 1M context, Claude Code conversations get very long. Multiple topics get mi
 ## Install
 
 ```bash
-git clone https://github.com/popup-jacob/claude-_session_split.git session-fork
+git clone https://github.com/popupstudio-hyeonjinkim/claude-_session_split.git session-fork
 mkdir -p .claude/skills/split
 cp session-fork/skills/split/SKILL.md .claude/skills/split/SKILL.md
 ```
